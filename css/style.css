@@ -220,7 +220,7 @@ footer{
 
 
 
-@media(max-width: 400px){
+@media(max-width: 490px){
 	.first-section{
 		flex-direction: column;
 		gap: 10px;
